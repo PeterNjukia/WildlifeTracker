@@ -1,7 +1,7 @@
 # Wildlife Tracker
 #### Wildlife Tracker, July 28th 2023
 #### By **Peter Njukia**
-![](screenshots/screenshot1.png)
+![](screenshots/WildlifeTracker.jpg)
 ![]()
 ## Description
 
