@@ -33,7 +33,7 @@ An application that allows Rangers to track wildlife sightings in the area.
 
 
 ## Live Demo
-To view the page heroku free package unavailable.
+View page unavailable. Heroku free package unavailable.
 
 ## Tests
 
@@ -72,11 +72,10 @@ The applications allow users to do the following:
 ```
 
 ## Known Bugs
-- Quick note that The page loads a bit slow due to the hosting, kindly be a little patient everything works just fine.
 - There are currently no tests done for this project.
 - As at the time this project was made, responsiveness was not a major concern 
-- The project is currently not being maintained any more 
-- Thanks for understanding.
+- The project is currently maintained by pnjukia@gmail.com 
+- Thanks for your time. Feedback is appreciated.
 
 
 
